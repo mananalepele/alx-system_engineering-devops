@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$((POWER / DEVIDE)) 
+echo $(($POWER / $DEVIDE)) 
